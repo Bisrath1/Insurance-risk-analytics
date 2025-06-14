@@ -5,4 +5,5 @@ outs:,TotalPremium,TotalClaims,Province,Gender,VehicleType,RegistrationYear,SumI
   path: insurance_data.csv,,,,,,,,,,
 ,1200.0,300.0,KwaZulu-Natal,,,,,,,
 ,1200.0,300.0,KwaZulu-Natal,,,,,,,
+,1200.0,300.0,KwaZulu-Natal,Male,Passenger,2015.0,50000.0,Comprehensive,2015-07-01,4001.0
 ,1200.0,300.0,KwaZulu-Natal,Male,Passenger,2015.0,50000.0,Comprehensive,2015-07-01,4001
